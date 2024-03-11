@@ -1,7 +1,3 @@
 bombillas
-<<<<<<< HEAD
 piedras
 cafetera
-=======
-Grifos
->>>>>>> develop
