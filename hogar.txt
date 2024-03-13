@@ -1,2 +1,3 @@
 bombillas
-Grifos
+piedras
+cafetera
